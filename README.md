@@ -1,95 +1,104 @@
 # Aditya Shah
-**AI/ML Enthusiast & Full-Stack Developer**
+**Computer Science Student | AI/ML Explorer | Full-Stack Development Enthusiast**
 
 ## About Me
-I'm Aditya Shah, currently pursuing my studies at PESCE Mandya with a passionate focus on Artificial Intelligence, Machine Learning, and automation technologies. I'm driven by the potential of AI to solve real-world problems and create innovative solutions that make a meaningful impact.
+I'm Aditya Shah, a 2nd semester Computer Science student at PESCE Mandya with an insatiable curiosity for technology and innovation. Currently exploring the fascinating worlds of Artificial Intelligence, Machine Learning, Automation and Full-Stack Development. I have a deep passion for AI/ML, automation, and Generative AI, and I'm excited about the endless possibilities these technologies offer to transform our world.
 
 ## Technical Skills
 
-### Skill Proficiency Chart
+### Programming Proficiency
 ```mermaid
-graph LR
-    A[Technical Skills] --> B[Frontend Development]
-    A --> C[Backend Development]
-    A --> D[DevOps & Deployment]
-    A --> E[AI/ML & Automation]
+graph TD
+    A[Programming Skills] --> B[Core Languages]
+    A --> C[Web Technologies]
+    A --> D[Tools & Platforms]
     
-    B --> B1[HTML5 - 85%]
-    B --> B2[CSS3 - 80%]
-    B --> B3[JavaScript - 75%]
+    B --> B1[Python - 85%]
+    B --> B2[C language - 80%]
+    B --> B3[Java - 55%]
     
-    C --> C1[FastAPI - 70%]
-    C --> C2[API Design - 65%]
+    C --> C1[HTML5 - 80%]
+    C --> C2[CSS3 - 75%]
+    C --> C3[JavaScript - 40%]
+    C --> C4[FastAPI - 20%]
     
-    D --> D1[Git/GitHub - 80%]
-    D --> D2[Render - 70%]
-    D --> D3[Netlify - 75%]
-    
-    E --> E1[AI Fundamentals - 60%]
-    E --> E2[ML Concepts - 55%]
-    E --> E3[Automation - 65%]
+    D --> D1[Git/GitHub - 90%]
+    D --> D2[Render - 45%]
+    D --> D3[Netlify - 30%]
 ```
 
-### Learning Progress Timeline
+### Learning Journey
 ```mermaid
-gantt
-    title Learning Journey & Future Goals
-    dateFormat  YYYY-MM-DD
-    section Foundation
-    HTML/CSS Mastery    :done, foundation, 2023-01-01, 2023-06-30
-    JavaScript Core     :done, js, 2023-04-01, 2023-09-30
+timeline
+    title My Tech Exploration Journey
     
-    section Backend & Tools
-    FastAPI Development :done, fastapi, 2023-07-01, 2023-12-31
-    Git/GitHub Workflow :done, git, 2023-06-01, 2023-10-31
-    Cloud Deployment    :done, deploy, 2023-09-01, 2024-01-31
+    2023 : Programming Foundations
+         : C Language 
+         : Python 
     
-    section AI/ML Focus
-    AI/ML Fundamentals  :active, aiml, 2024-01-01, 2024-08-31
-    Advanced ML Projects:planned, advanced, 2024-06-01, 2024-12-31
-    Deep Learning       :planned, dl, 2024-09-01, 2025-03-31
+    2024 : Web Development
+         : HTML/CSS/JavaScript
+         : Java Fundamentals with DSA
+         : FastAPI Introduction
+         : Git & GitHub Workflow
+    
+    2025 : Current Focus
+         : AI/ML Exploration
+         : Full-Stack Development
+         : Automation Projects
+         : Generative AI Study
 ```
 
-### Technical Stack Distribution
+### Interest Areas Focus
 ```mermaid
-pie title Technology Focus Areas
-    "Frontend Development" : 35
-    "Backend APIs" : 25
-    "DevOps & Deployment" : 20
-    "AI/ML & Automation" : 20
+pie title Areas of Deep Interest & Exploration
+    "AI/ML & Automation" : 40
+    "Programming Languages" : 30
+    "Web Development" : 20
+    "Generative AI" : 10
 ```
 
-### Frontend Development
+### Core Programming Languages
+- **Java** - Object-oriented programming, data structures, algorithms
+- **Python** - Versatile programming for web development and AI/ML exploration
+- **C Language** - System programming fundamentals and memory management
+
+### Web Development Stack
 - **HTML5** - Semantic markup and modern web standards
 - **CSS3** - Responsive design, Flexbox, Grid, animations
 - **JavaScript** - ES6+, DOM manipulation, async programming
-- **Exploring TypeScript**
-  
-### Backend Development
-- **FastAPI** - High-performance Python web framework for building APIs
+- **FastAPI** - Python web framework for building APIs
+- **TypeScript** - Enhanced Variant of JavaScript (Exploring)
 
 ### Development Tools & Platforms
 - **Git & GitHub** - Version control and collaborative development
 - **Render** - Cloud deployment and hosting
 - **Netlify** - Frontend deployment and continuous integration
 
-### Areas of Interest & Learning
-- **Artificial Intelligence** - Neural networks, deep learning fundamentals
-- **Machine Learning** - Supervised/unsupervised learning, model training
+### Current Exploration Areas
+- **Artificial Intelligence** - Exploring AI fundamentals and applications
+- **Machine Learning** - Learning algorithms and model concepts
 - **Automation** - Process automation and workflow optimization
-- **Data Science** - Data analysis and visualization
+- **Generative AI** - Understanding and experimenting with GenAI tools
+- **Full-Stack Development** - Combining frontend and backend skills
 
 ## Current Focus
-- Expanding knowledge in AI/ML algorithms and frameworks
-- Building full-stack applications with modern web technologies
-- Exploring automation solutions for everyday problems
-- Contributing to open-source projects
+As a 2nd semester student, I'm actively:
+- **Exploring AI/ML Fundamentals** - Understanding machine learning algorithms and their applications
+- **Building Full-Stack Projects** - Combining my programming skills with web technologies
+- **Experimenting with Automation** - Creating scripts and tools to streamline processes
+- **Studying Generative AI** - Fascinated by the potential of GenAI in various domains
+- **Strengthening Programming Foundation** - Deepening expertise in Java, Python, and C
 
-## Goals
-- Develop expertise in advanced ML frameworks (TensorFlow, PyTorch)
-- Create AI-powered web applications
-- Contribute to innovative automation projects
-- Build a portfolio of impactful AI/ML solutions
+## Future Aspirations
+- Master advanced AI/ML frameworks and libraries
+- Build innovative AI-powered applications
+- Contribute to open-source AI/ML projects
+- Develop expertise in Generative AI and automation
+- Create solutions that bridge traditional programming with cutting-edge AI
+
+## Connect With Me
+*Open to collaborations, learning opportunities, and discussions about AI/ML projects*
 
 ---
-*"In The Journey of Becoming the Best"*
+*"In the Journey of Becoming The Best"*
