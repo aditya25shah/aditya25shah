@@ -101,6 +101,8 @@ pie title Learning Focus
 
 ## Development Focus
 
+```python
+
 class AIMLExplorer:
     def __init__(self):
         self.name = "Aditya Shah"
@@ -111,6 +113,9 @@ class AIMLExplorer:
             "Build intelligent apps",
             "Contribute to Open Source",
         ]
+
+```
+
 
 ## Future Vision 
 
