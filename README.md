@@ -47,10 +47,6 @@ I have a deep passion for **AI/ML**, **automation**, and **Generative AI**, and 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </div>
 
-### AI/ML & Data Science (Exploring)
-<div align="center">
-</div>
-
 ###  Tools & Platforms
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -59,6 +55,11 @@ I have a deep passion for **AI/ML**, **automation**, and **Generative AI**, and 
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </div>
+
+### AI/ML & Data Science (Exploring)
+<div align="center">
+</div>
+
 
 ##  Programming Proficiency
 
