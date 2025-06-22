@@ -101,7 +101,6 @@ pie title Learning Focus
 
 ## Development Focus
 
-```mermaid
 class AIMLExplorer:
     def __init__(self):
         self.name = "Aditya Shah"
@@ -110,10 +109,9 @@ class AIMLExplorer:
             "Master AI/ML",
             "Automate workflows",
             "Build intelligent apps",
-            "Contribute to Open Source"
+            "Contribute to Open Source",
         ]
 
-```
 ## Future Vision 
 
 ```mermaid
