@@ -1,7 +1,7 @@
 # Hey Guys, I'm Aditya Shah!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;AI%2FML+Explorer;Full-Stack+Development+Enthusiast;Automation+%26+GenAI+Passionate;Always+Learning+%26+Growing!&font=Fira%20Code&center=true&width=480&height=45&duration=4000&pause=1000" alt="Typing SVG">
+  Developer
 </div>
 
 <div align="center">
