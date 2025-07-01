@@ -1,14 +1,5 @@
 # Hey Guys, I'm Aditya Shah!
 
-<div align="center">
-  Developer
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityashah&label=Profile%20views&color=blueviolet&style=flat" />
-  <img src="https://img.shields.io/github/followers/adityashah?label=Followers&style=social" />
-  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Automation-brightgreen" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=AI%2FML%20Explorer&fontSize=36&fontAlignY=30&desc=Transforming%20Ideas%20into%20Intelligent%20Solutions&descAlignY=55&descAlign=50"/>
