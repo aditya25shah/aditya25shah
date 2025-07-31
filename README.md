@@ -55,40 +55,6 @@ I'm **Aditya Shah**, a 2nd-semester Computer Science student at **PESCE Mandya**
 
 ---
 
-## Programming Proficiency
-
-```mermaid
-graph TD
-    A[Programming Skills] --> B[Python - 85%]
-    A --> C[C - 80%]
-    A --> D[Java - 55%]
-    A --> E[HTML/CSS - 75%]
-    A --> F[JavaScript - 40%]
-    A --> G[FastAPI - 20%]
-    A --> H[Git/GitHub - 90%]
-```
-
-## Learning Timeline 
-
-```mermaid
-timeline
-    title My Tech Journey
-    2023 : Started with C & Python
-    2024 : Web Dev | Java | Git | FastAPI
-    2025 : AI/ML | GenAI | Full-Stack Automation
-```
-
-## Interest Distribution
-
-```mermaid
-%%{init: {'theme':'base'}}%%
-pie title Learning Focus
-    "Web Development" : 45
-    "Java & DSA" : 25
-    "Generative AI" : 20
-    "Python & C" : 10
-
-```
 
 ## Development Focus
 
@@ -107,18 +73,3 @@ class AIMLExplorer:
 
 ```
 
-
-## Future Vision 
-
-```mermaid
-graph LR
-    A[Current] --> B[Short-Term]
-    B --> C[Long-Term]
-
-    A --> A1[2nd Sem CS Student]
-    B --> B1[Master AI/ML Tools]
-    B --> B2[Build AI Products]
-    C --> C1[AI Expert & Innovator]
-    C --> C2[Tech Entrepreneur]
-
-```
