@@ -9,7 +9,7 @@
 
 > "In the Journey of Becoming The Best"
 
-I'm **Aditya Shah**, a 2nd-semester Computer Science student at **PESCE Mandya**, passionate about **AI/ML**, **Automation**, and **Full-Stack Development**. I'm always striving to learn, build, and grow in the field of tech.
+I'm **Aditya Shah**, a 4th-semester Computer Science student at **PESCE Mandya**, passionate about **AI/ML**, **Automation**, and **Full-Stack Development**. I'm always striving to learn, build, and grow in the field of tech.
 
 ---
 
