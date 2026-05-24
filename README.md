@@ -1,10 +1,4 @@
 # Hey Guys, I'm Aditya Shah!
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=AI%2FML%20Explorer&fontSize=36&fontAlignY=30&desc=Transforming%20Ideas%20into%20Intelligent%20Solutions&descAlignY=55&descAlign=50"/>
-</div>
-
 ## About Me
 
 > "In the Journey of Becoming The Best"
@@ -13,18 +7,7 @@ I'm **Aditya Shah**, a 4th-semester Computer Science student at **PESCE Mandya**
 
 ---
 
-## What Drives Me
-
-- AI/ML Enthusiast – Exploring intelligent systems  
-- Automation Advocate – Optimizing repetitive tasks  
-- Full-Stack Explorer – Building complete solutions  
-- Generative AI Fan – Innovating with cutting-edge AI tools  
-- Continuous Learner – Always upskilling  
-
----
-
 ## Tech Stack
-
 ### Languages
 
 <p align="center">
