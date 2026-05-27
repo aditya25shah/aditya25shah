@@ -7,21 +7,24 @@
 <i>"IN THE JOURNEY OF BECOMING THE BEST"</i>
 
 <br>
-
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/aditya-shah-8bb76532a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/yourusername">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://codeforces.com/">
+
+  <a href="https://codeforces.com/profile/YOUR_HANDLE">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
+
+  <a href="https://auth.geeksforgeeks.org/user/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
 </p>
+
 
 </div>
 
