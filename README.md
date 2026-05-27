@@ -1,58 +1,40 @@
-# Hey Guys, I'm Aditya Shah!
-## About Me
+<div align="center">
 
-> "In the Journey of Becoming The Best"
+# Aditya Shah
 
-I'm **Aditya Shah**, a 4th-semester Computer Science student at **PESCE Mandya**, passionate about **AI/ML**, **Automation**, and **Full-Stack Development**. I'm always striving to learn, build, and grow in the field of tech.
+### AI/ML • Automation • Full-Stack Development
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+things+that+shouldn't+exist+yet;AI%2FML+Explorer+%7C+Competitive+Programmer;Full-Stack+Developer+%7C+Automation+Enthusiast;In+the+journey+of+becoming+the+best" />
+
+<p align="center">
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-shah-8bb76532a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
+
+</div>
 
 ---
 
-## Tech Stack
-### Languages
+# About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-</p>
-
-### Web Development
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-</p>
-
-### Tools & Platforms
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-</p>
-
----
-
-
-## Development Focus
-
-```python
-
-class AIMLExplorer:
-    def __init__(self):
-        self.name = "Aditya Shah"
-        self.interests = ["AI/ML", "Automation", "GenAI", "Full-Stack Dev"]
-        self.goals = [
-            "Master AI/ML",
-            "Automate workflows",
-            "Build intelligent apps",
-            "Contribute to Open Source",
-        ]
-
-```
-
+```yaml
+name: Aditya Shah
+education: B.E CSE @ PESCE Mandya
+semester: 4th Semester
+focus:
+  - AI/ML
+  - GenAI
+  - Automation
+  - Full-Stack Development
+current_mission: "Turning ideas into scalable intelligent systems"
+mindset: "Learn. Build. Improve. Repeat."
