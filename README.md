@@ -2,12 +2,11 @@
 
 # ADITYA SHAH
 
-### `AI/ML ENGINEER` • `FULL-STACK DEVELOPER` 
+**`AI/ML ENGINEER` • `FULL-STACK DEVELOPER` • `AUTOMATION BUILDER`**
 
-<h3><i>"IN THE JOURNEY OF BECOMING THE BEST"</i></h3>
+<i>"IN THE JOURNEY OF BECOMING THE BEST"</i>
+
 <br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Building%20Intelligent%20Systems&fontAlign=50&fontAlignY=40&color=gradient&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Automation%20%7C%20Competitive%20Programming&descAlign=50&descAlignY=60"/>
 
 <p align="center">
   <a href="https://github.com/yourusername">
@@ -28,7 +27,7 @@
 
 ---
 
-## 👨‍💻 About Me
+### ❯ sys.info()
 
 ```yaml
 name: Aditya Shah
